@@ -1,0 +1,242 @@
+[
+  {
+    "name": "01_nose_candy_top",
+    "box": [
+      30,
+      180,
+      320,
+      460
+    ],
+    "trim_box_in_crop": [
+      38,
+      2,
+      290,
+      280
+    ],
+    "file": "01_nose_candy_top.png",
+    "size": [
+      252,
+      278
+    ]
+  },
+  {
+    "name": "02_liquid_mistake_bottle",
+    "box": [
+      300,
+      90,
+      540,
+      430
+    ],
+    "trim_box_in_crop": [
+      0,
+      3,
+      240,
+      337
+    ],
+    "file": "02_liquid_mistake_bottle.png",
+    "size": [
+      240,
+      334
+    ]
+  },
+  {
+    "name": "03_elder_sigil_top",
+    "box": [
+      530,
+      140,
+      860,
+      490
+    ],
+    "trim_box_in_crop": [
+      0,
+      0,
+      330,
+      350
+    ],
+    "file": "03_elder_sigil_top.png",
+    "size": [
+      330,
+      350
+    ]
+  },
+  {
+    "name": "04_sparkle_dust",
+    "box": [
+      820,
+      150,
+      1060,
+      440
+    ],
+    "trim_box_in_crop": [
+      0,
+      3,
+      228,
+      289
+    ],
+    "file": "04_sparkle_dust.png",
+    "size": [
+      228,
+      286
+    ]
+  },
+  {
+    "name": "05_the_good_marker",
+    "box": [
+      1060,
+      150,
+      1340,
+      440
+    ],
+    "trim_box_in_crop": [
+      7,
+      3,
+      280,
+      288
+    ],
+    "file": "05_the_good_marker.png",
+    "size": [
+      273,
+      285
+    ]
+  },
+  {
+    "name": "06_wake_salts",
+    "box": [
+      1290,
+      180,
+      1536,
+      440
+    ],
+    "trim_box_in_crop": [
+      0,
+      0,
+      222,
+      220
+    ],
+    "file": "06_wake_salts.png",
+    "size": [
+      222,
+      220
+    ]
+  },
+  {
+    "name": "07_liquid_mistake_marker",
+    "box": [
+      40,
+      560,
+      330,
+      870
+    ],
+    "trim_box_in_crop": [
+      40,
+      6,
+      290,
+      310
+    ],
+    "file": "07_liquid_mistake_marker.png",
+    "size": [
+      250,
+      304
+    ]
+  },
+  {
+    "name": "08_elder_sigil_jar",
+    "box": [
+      300,
+      560,
+      590,
+      870
+    ],
+    "trim_box_in_crop": [
+      0,
+      0,
+      290,
+      310
+    ],
+    "file": "08_elder_sigil_jar.png",
+    "size": [
+      290,
+      310
+    ]
+  },
+  {
+    "name": "09_blue_essence",
+    "box": [
+      560,
+      550,
+      820,
+      870
+    ],
+    "trim_box_in_crop": [
+      2,
+      2,
+      208,
+      320
+    ],
+    "file": "09_blue_essence.png",
+    "size": [
+      206,
+      318
+    ]
+  },
+  {
+    "name": "10_holy_tallow",
+    "box": [
+      820,
+      560,
+      1080,
+      870
+    ],
+    "trim_box_in_crop": [
+      4,
+      1,
+      252,
+      310
+    ],
+    "file": "10_holy_tallow.png",
+    "size": [
+      248,
+      309
+    ]
+  },
+  {
+    "name": "11_gods_confetti",
+    "box": [
+      1080,
+      560,
+      1320,
+      870
+    ],
+    "trim_box_in_crop": [
+      7,
+      1,
+      240,
+      310
+    ],
+    "file": "11_gods_confetti.png",
+    "size": [
+      233,
+      309
+    ]
+  },
+  {
+    "name": "12_the_pill",
+    "box": [
+      1300,
+      610,
+      1536,
+      870
+    ],
+    "trim_box_in_crop": [
+      0,
+      31,
+      174,
+      260
+    ],
+    "file": "12_the_pill.png",
+    "size": [
+      174,
+      229
+    ]
+  }
+]
