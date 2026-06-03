@@ -9,7 +9,7 @@ public class GamblingInterface {
     public static void main(String[] args) {
     		RandomNumberGenerators generator = new RandomNumberGenerators(1,9);
     		
-    		RandomNumberGenerators spins = new RandomNumberGenerators(10, 1000);
+    		RandomNumberGenerators spins = new RandomNumberGenerators(10, 10000);
     		
     		Scanner scanner = new Scanner(System.in);
     		
