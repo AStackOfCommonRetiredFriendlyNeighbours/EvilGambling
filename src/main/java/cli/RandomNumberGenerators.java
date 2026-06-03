@@ -1,4 +1,4 @@
-package evilgambling.numbergen;
+package cli;
 
 import java.util.Random;
 

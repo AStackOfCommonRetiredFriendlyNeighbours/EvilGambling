@@ -1,7 +1,5 @@
 package cli;
 
-import evilgambling.numbergen.RandomNumberGenerators;
-
 import java.util.Scanner;
 
 public class GamblingInterface {
